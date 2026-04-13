@@ -54,9 +54,3 @@
 </p>
 
 ---
-
-### 📂 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **CivicLK** | Digitalizing local government & citizen services | Flutter, Firebase |
-| **Vessel Finance** | App for fishing boat owners to manage profits | React Native, Node.js |
