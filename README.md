@@ -1,7 +1,3 @@
-<h1 align="center">Hi there, I'm Akila Keshara 👋</h1>
-
-<h4 align="center">Software Engineering Undergraduate | Founder & Lead Developer at Zentak Solutions</h4>
-
 <p align="center">
   <a href="https://linkedin.com/in/akila-keshara-284a02327">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,6 +5,10 @@
   <a href="http://zentaksolutions.me/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akilakeshara&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
 ---
