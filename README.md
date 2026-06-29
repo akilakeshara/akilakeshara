@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Akila Keshara 👋</h1>
 
-<h4 align="center">Software Engineering Undergraduate | Founder & Lead Developer at Zentak Solutions</h4>
+<h4 align="center">Full-Stack Software Engineer | Founder & Lead Developer at Zentak Solutions</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/akila-keshara-284a02327">
@@ -8,6 +8,9 @@
   </a>
   <a href="https://www.akilakeshara.com/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://zentaksolutions.me/">
+    <img src="https://img.shields.io/badge/Zentak%20Solutions-%232C3E50.svg?style=for-the-badge&logoColor=white" alt="Zentak Solutions Badge"/>
   </a>
 </p>
 
@@ -25,8 +28,14 @@
 
 **Languages** <br/>
 <p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 **Frontend & Mobile** <br/>
