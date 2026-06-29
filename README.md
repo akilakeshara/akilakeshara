@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/akila-keshara-284a02327">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="http://zentaksolutions.me/">
+  <a href="https://www.akilakeshara.com/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
