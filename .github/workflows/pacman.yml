@@ -2,8 +2,12 @@ name: Generate Pacman Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # Runs every day at 00:00 UTC (Daily update)
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -11,21 +15,24 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Pacman Contribution Graph
-        uses: abozanona/pacman-contribution-graph@d258e3fb01511c1ff4fe6418408ede37b2ad4935
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: akilakeshara
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+          github_token: ${{ secrets.PACMAN_TOKEN || secrets.GITHUB_TOKEN }}
+          games: "pacman"
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update Pacman contribution graph [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
